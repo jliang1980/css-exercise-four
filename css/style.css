@@ -131,7 +131,8 @@ background-size:cover;
 
 .rome
 {
-
+width:100%;
+height:375px;
 background-image:url("../images/rome.jpg");
 background-size:cover;
 background-repeat:none;
